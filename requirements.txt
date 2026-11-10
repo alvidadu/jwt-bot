@@ -1,0 +1,6 @@
+python-telegram-bot
+aiohttp
+PyJWT
+pycryptodome
+protobuf
+python-dotenv
